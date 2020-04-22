@@ -1,0 +1,2 @@
+# pastery
+Just another repository
